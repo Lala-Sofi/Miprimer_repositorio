@@ -56,3 +56,5 @@ $$
 x = 2^4*y + 1
 $$
 
+![Foto1](cienciadedatos.webp
+
