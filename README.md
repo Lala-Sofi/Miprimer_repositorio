@@ -56,5 +56,6 @@ $$
 x = 2^4*y + 1
 $$
 
-![Foto1](cienciadedatos.webp
+![Foto1](imagen.jpg)
+![Gif1](gif.gif)
 
